@@ -8,5 +8,6 @@ group :development do
   gem 'jekyll-paginate'
   gem 'sass'
   gem 'bourbon'
+  gem 'bitters'
   gem 'pygments.rb'
 end
