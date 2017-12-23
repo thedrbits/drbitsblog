@@ -37,8 +37,7 @@ author:
 twitter_card: "summary_large_image"
 twitter_site: "@thedrbits"
 
-gems:
-  - bourbon
+plugins:
   - jekyll-paginate
 
 # navbar pages
