@@ -1,44 +1,51 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: Bits of Tech and Business from Daniel Rice
-email: dan@drbits.org
-description: >- # this means to ignore newlines until "baseurl:"
-  Daniel Rice covers bits of tech and business relating to startups,
-  blockchain, cryptocurrency, and fintech.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: thedrbits
-github_username:  thedrbits
-
-# Build settings
-markdown: kramdown
-theme: minima
-plugins:
-  - jekyll-feed
+# SEO settings
+title: drbits
+description: "Bits of Tech and Business from Daniel Rice"
+keywords: "Daniel, Rice, Blockchain, Bitcoin"
+url: ""
+baseurl: ""
+# baseurl: null
 
 timezone: America/Los_Angeles
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+# Build settings
+permalink   : /:year/:title/
+markdown    : kramdown
+highlighter : pygments
+
+paginate: 4
+paginate_path: "/page/:num/"
+comments: true
+
+# Sass configuration
+sass:
+  sass_dir: assets/scss
+  style: compressed # expanded
+
+# Author settings
+author:
+  name     : Daniel Rice
+  job      : Software Developer and Chief Technology Officer
+  bio      : "These are my thoughts on Technology and Business."
+  thumb    : /images/author.jpg
+  email    : dan@drbits.org
+  github   : http://github.com/thedrbits
+  twitter  : http://twitter.com/thedrbits
+
+# social settings
+twitter_card: "summary_large_image"
+twitter_site: "@thedrbits"
+
+gems:
+  - bourbon
+  - jekyll-paginate
+
+# navbar pages
+navbar:
+  - slug : about
+    title: About
+  - slug : blog
+    title: Blog
+
+exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md"]
