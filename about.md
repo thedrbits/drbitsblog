@@ -3,8 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-Daniel Rice is the CTO of Bootstrap Legal. He is a veteran software engineer, leader, speaker, and writer with expertise in blockchain and finance. Daniel’s most recent role prior to joining Bootstrap Legal was as CTO for Totum Risk which provides portfolio analytics software. Totum was selected for YNext incubator in 2016, which was awarded “top accelerator” honors by Finance Magazine. Daniel has helped launch over 20 products, and as an entrepreneur his personal apps have racked up over 5 million downloads.
+{% include image name="dan.jpeg" width=200 %}Daniel Rice is the CTO of Bootstrap Legal. He is a veteran software engineer, leader, speaker, and writer with expertise in blockchain and finance. Daniel’s most recent role prior to joining Bootstrap Legal was as CTO for Totum Risk which provides portfolio analytics software. Totum was selected for YNext incubator in 2016, which was awarded “top accelerator” honors by Finance Magazine. Daniel has helped launch over 20 products, and as an entrepreneur his personal apps have racked up over 5 million downloads.
 \\
 \\
 \\
