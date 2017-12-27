@@ -81,7 +81,7 @@ will drop off the network who cannot afford to buy the needed hardware.
 
 Now back to IOTA. IOTA has no limit on transactions and therefore, it has no
 limit on bandwidth requirements or disk space. It advertises free transactions
-with a small amount of proof-of-work. **This means, ****if you run a full IOTA
+with a small amount of proof-of-work. **This means, if you run a full IOTA
 node, anyone on the IOTA network can write data to your hard drive with just a
 small, extremely low cost proof-of-work. This does not align incentives of the
 network for decentralization, but rather centralization.** Over time, the IOTA
