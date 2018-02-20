@@ -101,5 +101,6 @@ and so for this reason you should not use a single tool to store all your
 assets. Even particular cryptocurrencies may be exploited and you should
 consider splitting any cryptocurrency you hold amongst multiple in case a
 catastrophic bug occurs in one. Diversify in every direction possible.
-
+\\
+\\
 This article was originally posted on Medium and [can be found here.](https://medium.com/@thedrbits/spectre-and-meltdown-will-steal-your-cryptocurrency-196fa034e329)
