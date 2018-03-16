@@ -5,11 +5,11 @@ permalink: /press/
 ---
 ## Upcoming Events
 
-Smart Contract Pitfalls and Challenges -- [Blockchain at UCI](https://www.blockchainuci.com) (February 21, 2018)
+[Cleveland State Law Review Symposium on Blockchain Law and Technology](https://www.eventbrite.com/e/blockchain-law-technology-symposium-tickets-42849684560) (April 6, 2018)
 
-[FFCON18: Velocity Toronto](http://fintechandfunding.com/) (March 5-6, 2018)
+## Recent notable press
 
-## Recent notable appearances
+[Crowdfund Insider -- Is Bitcoin Broken Beyond All Repair? (January 30, 2018)](https://www.crowdfundinsider.com/2018/01/127714-bitcoin-broken-beyond-repair/)
 
 Crypto 101 -- How Cryptocurrency Exchanges Work (January 18, 2018)
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/385876076&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
