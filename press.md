@@ -5,11 +5,23 @@ permalink: /press/
 ---
 ## Upcoming Events
 
-[Cleveland State Law Review Symposium on Blockchain Law and Technology](https://www.eventbrite.com/e/blockchain-law-technology-symposium-tickets-42849684560) (April 6, 2018)
-
 ## Recent notable press
 
+Speaking Event: Crypto Invest Summit - Sagewise Technology (May 2, 2018)
+
+[Cleveland State Law Review Symposium on Blockchain Law and Technology](https://www.eventbrite.com/e/blockchain-law-technology-symposium-tickets-42849684560) (April 6, 2018)
+
+IBREA Blockchain 101 Webinar (March 27, 2018)
+
+FFCon18 Panel on Cryptocurrency Technology, Toronto, ON (March 5, 2018)
+
+Speaking Event: Blockchain @ UC Irvine, CA (February 21, 2018)
+
 [Crowdfund Insider -- Is Bitcoin Broken Beyond All Repair? (January 30, 2018)](https://www.crowdfundinsider.com/2018/01/127714-bitcoin-broken-beyond-repair/)
+
+Blockchain Beach Panel, Playa Del Rey, CA (January 23, 2018)
+
+Tech-in-Motion ICO OC Panel, Irvine, CA (January 18, 2018)
 
 Crypto 101 -- How Cryptocurrency Exchanges Work (January 18, 2018)
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/385876076&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
