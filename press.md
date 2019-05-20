@@ -7,6 +7,14 @@ permalink: /press/
 
 ## Recent notable press
 
+Speaking Event: Enterprise Applications of Blockchain (September 18, 2018)
+
+Speaking Event: NCC Group Open Forum Smart Contract Security - Costa Mesa, CA (June 6, 2018)
+
+Blockchain Northwest Panel on Blockchain Regulatory - Seattle, WA (June 5, 2018)
+
+Speaking Event: Transparency 18 Sagewise Live Demo - Atlanta, GA (May 22, 2018)
+
 Speaking Event: Crypto Invest Summit - Sagewise Technology (May 2, 2018)
 
 [Cleveland State Law Review Symposium on Blockchain Law and Technology](https://www.eventbrite.com/e/blockchain-law-technology-symposium-tickets-42849684560) (April 6, 2018)
