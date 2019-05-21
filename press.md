@@ -5,17 +5,19 @@ permalink: /press/
 ---
 ## Upcoming Events
 
-## Recent notable press
+## Recent notable public speaking and press
 
-Speaking Event: Enterprise Applications of Blockchain (September 18, 2018)
+[Crowdfund Insider -- World’s Biggest Insurtech Conference Captures Industry Mood on Blockchain, AI (October 17, 2018)](https://www.crowdfundinsider.com/2018/10/140144-worlds-biggest-insurtech-conference-captures-industry-mood-on-blockchain-ai/)
 
-Speaking Event: NCC Group Open Forum Smart Contract Security - Costa Mesa, CA (June 6, 2018)
+Bright Talk Enterprise Applications of Blockchain Webinar (September 18, 2018)
+
+NCC Group Open Forum Smart Contract Security - Costa Mesa, CA (June 6, 2018)
 
 Blockchain Northwest Panel on Blockchain Regulatory - Seattle, WA (June 5, 2018)
 
-Speaking Event: Transparency 18 Sagewise Live Demo - Atlanta, GA (May 22, 2018)
+Transparency 18 Sagewise Live Demo - Atlanta, GA (May 22, 2018)
 
-Speaking Event: Crypto Invest Summit - Sagewise Technology (May 2, 2018)
+Crypto Invest Summit - Sagewise Technology (May 2, 2018)
 
 [Cleveland State Law Review Symposium on Blockchain Law and Technology](https://www.eventbrite.com/e/blockchain-law-technology-symposium-tickets-42849684560) (April 6, 2018)
 
@@ -23,7 +25,7 @@ IBREA Blockchain 101 Webinar (March 27, 2018)
 
 FFCon18 Panel on Cryptocurrency Technology, Toronto, ON (March 5, 2018)
 
-Speaking Event: Blockchain @ UC Irvine, CA (February 21, 2018)
+Blockchain - Sagewise Technology @ UC Irvine, CA (February 21, 2018)
 
 [Crowdfund Insider -- Is Bitcoin Broken Beyond All Repair? (January 30, 2018)](https://www.crowdfundinsider.com/2018/01/127714-bitcoin-broken-beyond-repair/)
 
@@ -49,7 +51,10 @@ CryptoSpendthrift -- Cryptocurrency price volatility locking (December 22, 2017)
 \\
 \\
 <a href='https://esignrecords.org/esra-podcast-need-know-blockchain/'>Electronic Signatures and Records Association -- Smart contracts and dispute resolution (November 28, 2017)</a>
-\\
-\\
+
 Bitcoin Uncensored -- Smart Contract Dispute Resolution (November 15, 2017)
 {% include playyoutube.html id="LDqpY-VsHeM" %}
+
+[Crowdfund Insider -- Oops, I Accidentally Froze $150 Million of Ether. Or, How Smart Contracts Are Not Invulnerable (November 9, 2017)](https://www.crowdfundinsider.com/2017/11/124379-oops-accidentally-froze-150-million-ether-smart-contracts-not-invulnerable/)
+
+[Crowdfund Insider -- Why Your Initial Coin Offering Is Probably Regulated By Securities Law (March 6, 2017)](https://www.crowdfundinsider.com/2017/03/96598-initial-coin-offering-probably-regulated-securities-law/)
