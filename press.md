@@ -8,7 +8,12 @@ permalink: /press/
 ## Recent notable public speaking and press
 
 [Crowdfund Insider -- World’s Biggest Insurtech Conference Captures Industry Mood on Blockchain, AI (October 17, 2018)](https://www.crowdfundinsider.com/2018/10/140144-worlds-biggest-insurtech-conference-captures-industry-mood-on-blockchain-ai/)
-
+\\
+\\
+Crypto 101 -- Is Security Better Now Than a Year Ago? (October 3, 2018)
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/508829619&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+\\
+\\
 Bright Talk Enterprise Applications of Blockchain Webinar (September 18, 2018)
 
 NCC Group Open Forum Smart Contract Security - Costa Mesa, CA (June 6, 2018)
