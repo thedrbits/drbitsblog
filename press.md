@@ -7,6 +7,10 @@ permalink: /press/
 
 ## Recent notable public speaking and press
 
+The EOS Podcast: Sagewise SendEOS technology (December 19, 2019)
+
+Plug and Play Demo Day Enterprise 2.0: Sagewise Technology - Sunnyvale, CA (December 5, 2018)
+
 EOS Global Hackathon - San Francisco, CA (November 10-11, 2018)
 
 EOS Developers Party SF Cryptocurrency Panel - San Francisco, CA (November 9, 2018)
