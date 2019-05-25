@@ -7,6 +7,8 @@ permalink: /press/
 
 ## Recent notable public speaking and press
 
+Gossip about Gossip Podcast: Do Smart Contracts Need a Safety Net? (March 21, 2019)
+
 The EOS Podcast: Sagewise SendEOS technology (December 19, 2019)
 
 Plug and Play Demo Day Enterprise 2.0: Sagewise Technology - Sunnyvale, CA (December 5, 2018)
@@ -20,7 +22,8 @@ Speaking Event: SOCAL Blockchain - Irvine, CA (October 24, 2018)
 [Crowdfund Insider -- World’s Biggest Insurtech Conference Captures Industry Mood on Blockchain, AI (October 17, 2018)](https://www.crowdfundinsider.com/2018/10/140144-worlds-biggest-insurtech-conference-captures-industry-mood-on-blockchain-ai/)
 \\
 \\
-Hedera18 Smart Contract Dapp Panel - Houston, TX (October 17, 2018)
+Hedera18 Decentralized Applications Panel - Houston, TX (October 17, 2018)
+{% include playyoutube.html id="5v_jGpkRdq4" %}
 \\
 \\
 Crypto 101 -- Is Security Better Now Than a Year Ago? (October 3, 2018)
@@ -30,12 +33,19 @@ Crypto 101 -- Is Security Better Now Than a Year Ago? (October 3, 2018)
 AthletesTouch: Cryptocurrency Panel - Venice, CA (September 18, 2018)
 
 Bright Talk Enterprise Applications of Blockchain Webinar (September 18, 2018)
-
+\\
+\\
+Gossip Guy Podcast - Sagewise - The Safety Net for Smart Contracts - Using Hedera Hashgraph (August, 14, 2018)
+{% include playyoutube.html id="6TKOmHojxks" %}
+\\
+\\
 NCC Group Open Forum Smart Contract Security - Costa Mesa, CA (June 6, 2018)
 
 Blockchain Northwest Panel on Blockchain Regulatory - Seattle, WA (June 5, 2018)
 
 Transparency 18 Sagewise Live Demo - Atlanta, GA (May 22, 2018)
+
+[Forbes - Warren Buffett Is Wrong About Bitcoin](https://www.forbes.com/sites/panosmourdoukoutas/2018/05/07/warren-buffett-is-wrong-about-bitcoin/#a14877b379c8) (May 7, 2018)
 
 Crypto Invest Summit - Sagewise Technology (May 2, 2018)
 
