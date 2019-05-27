@@ -8,14 +8,20 @@ permalink: /press/
 ## Recent notable public speaking and press
 
 Gossip about Gossip Podcast: Do Smart Contracts Need a Safety Net? (March 21, 2019)
-
+<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/9100235/height/90/theme/custom/thumbnail/yes/direction/forward/render-playlist/no/custom-color/000000/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+\\
+\\
 The EOS Podcast: Sagewise SendEOS technology (December 19, 2019)
-
+{% include playyoutube.html id="m7Q-Z4bNhws" %}
+\\
+\\
 Plug and Play Demo Day Enterprise 2.0: Sagewise Technology - Sunnyvale, CA (December 5, 2018)
+{% include playyoutube.html id="uHkcA8O5a0I" %}
+\\
+\\
+[EOS Global Hackathon - San Francisco, CA](https://www.eventbrite.com/e/eos-hackathon-san-francisco-tickets-48901052364#) (November 10-11, 2018)
 
-EOS Global Hackathon - San Francisco, CA (November 10-11, 2018)
-
-EOS Developers Party SF Cryptocurrency Panel - San Francisco, CA (November 9, 2018)
+[EOS Developers Party SF Cryptocurrency Panel - San Francisco, CA](https://www.meetup.com/EOS-Silicon-Valley-Community/events/256200286/) (November 9, 2018)
 
 Speaking Event: SOCAL Blockchain - Irvine, CA (October 24, 2018)
 
