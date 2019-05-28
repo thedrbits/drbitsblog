@@ -73,9 +73,9 @@ Blockchain - Sagewise Technology @ UC Irvine, CA (February 21, 2018)
 
 [Crowdfund Insider -- Is Bitcoin Broken Beyond All Repair?](https://www.crowdfundinsider.com/2018/01/127714-bitcoin-broken-beyond-repair/) (January 30, 2018)
 
-Blockchain Beach Panel, Playa Del Rey, CA (January 23, 2018)
+[Blockchain Beach Panel - Playa Del Rey, CA](https://www.meetup.com/blockchainbeachla/events/246455646/) (January 23, 2018)
 
-Tech-in-Motion ICO OC Panel, Irvine, CA (January 18, 2018)
+[Tech-in-Motion OC - Blockchain and Cryptocurrency Panel - Irvine, CA](https://www.meetup.com/TechinmotionOC/events/245195065/) (January 18, 2018)
 
 Crypto 101 -- How Cryptocurrency Exchanges Work (January 18, 2018)
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/385876076&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
@@ -85,16 +85,16 @@ CryptoSpendthrift -- Cryptocurrency price volatility locking (December 22, 2017)
 {% include playyoutube.html id="FBVjCxVwYYg" %}
 \\
 \\
-<a href='https://www.media.mit.edu/posts/iota-response/'>MIT Media Lab linked to my IOTA article in their IOTA article (December 20, 2017)</a>
+[MIT Media Lab linked to my IOTA article in their IOTA article](https://www.media.mit.edu/posts/iota-response/) (December 20, 2017)
 \\
 \\
-<a href='http://developeronfire.com/podcast/episode-291-daniel-rice-winning-horses'>Developer on Fire -- Creating value and blockchain technology (November 30, 2017)</a>
+[Developer on Fire -- Creating value and blockchain technology](http://developeronfire.com/podcast/episode-291-daniel-rice-winning-horses) (November 30, 2017)
 \\
 \\
-<a href='http://cryptoknights.io/episode-23/'>Crypto Knights -- Smart contracts and dispute resolution (November 28, 2017)</a>
+[Crypto Knights -- Smart contracts and dispute resolution](http://cryptoknights.io/episode-23/) (November 28, 2017)
 \\
 \\
-<a href='https://esignrecords.org/esra-podcast-need-know-blockchain/'>Electronic Signatures and Records Association -- Smart contracts and dispute resolution (November 28, 2017)</a>
+[Electronic Signatures and Records Association -- Smart contracts and dispute resolution](https://esignrecords.org/esra-podcast-need-know-blockchain/) (November 28, 2017)
 
 Bitcoin Uncensored -- Smart Contract Dispute Resolution (November 15, 2017)
 {% include playyoutube.html id="LDqpY-VsHeM" %}
