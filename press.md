@@ -53,9 +53,10 @@ Gossip Guy Podcast - Sagewise - The Safety Net for Smart Contracts - Using Heder
 
 NCC Group Open Forum Smart Contract Security - Costa Mesa, CA (June 6, 2018)
 
-Blockchain Northwest Panel on Blockchain Regulatory - Seattle, WA (June 5, 2018)
+[Blockchain Northwest Panel on Blockchain Regulatory - Seattle, WA](https://www.facebook.com/cttv247/videos/blockchain-nwagenda900-am-state-of-blockchain-by-kate-m-bloccelerate-vc-keynote9/1266762233454500/) (June 5, 2018)
 
 Transparency 18 Sagewise Live Demo - Atlanta, GA (May 22, 2018)
+{% include playyoutube.html id="N1yRg0M_pwc" %}
 
 [Forbes - Is Korea's Big Government Trying To Destroy Bitcoin, Ethereum And Ripple?](https://www.forbes.com/sites/panosmourdoukoutas/2018/05/12/is-koreas-big-government-trying-to-destroy-bitcoin-ethereum-ripple/#2fabaace4f44) (May 12, 2018)
 
