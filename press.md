@@ -51,7 +51,7 @@ Gossip Guy Podcast - Sagewise - The Safety Net for Smart Contracts - Using Heder
 \\
 [Tech Crunch - Sagewise pitches a service to verify claims and arbitrate disputes over blockchain transactions](https://techcrunch.com/2018/08/03/sagewise-pitches-a-service-to-verify-claims-and-arbitrate-disputes-over-blockchain-transactions/) (August 3, 2018)
 
-NCC Group Open Forum Smart Contract Security - Costa Mesa, CA (June 6, 2018)
+[NCC Group Open Forum Smart Contract Security - Costa Mesa, CA](https://www.meetup.com/NCC-Group-Open-Forum-Los-Angeles/events/250594425/) (June 6, 2018)
 
 [Blockchain Northwest Panel on Blockchain Regulatory - Seattle, WA](https://www.facebook.com/cttv247/videos/blockchain-nwagenda900-am-state-of-blockchain-by-kate-m-bloccelerate-vc-keynote9/1266762233454500/) (June 5, 2018)
 
@@ -66,41 +66,45 @@ Crypto Invest Summit - Sagewise Technology (May 2, 2018)
 
 [Cleveland State Law Review Symposium on Blockchain Law and Technology](https://www.eventbrite.com/e/blockchain-law-technology-symposium-tickets-42849684560) (April 6, 2018)
 
-IBREA Blockchain 101 Webinar (March 27, 2018)
+[IBREA Blockchain 101 Webinar](https://www.ibrea.network/events-index/2018/3/14/webinar-blockchain-technology-101) (March 27, 2018)
 
 FFCon18 Panel on Cryptocurrency Technology, Toronto, ON (March 5, 2018)
 
-Blockchain - Sagewise Technology @ UC Irvine, CA (February 21, 2018)
+[Blockchain @ UCI - Sagewise Technology - Irvine, CA](https://www.facebook.com/events/338076520044635/) (February 21, 2018)
 
-[Crowdfund Insider -- Is Bitcoin Broken Beyond All Repair?](https://www.crowdfundinsider.com/2018/01/127714-bitcoin-broken-beyond-repair/) (January 30, 2018)
+[Crowdfund Insider - Is Bitcoin Broken Beyond All Repair?](https://www.crowdfundinsider.com/2018/01/127714-bitcoin-broken-beyond-repair/) (January 30, 2018)
 
-[Blockchain Beach Panel - Playa Del Rey, CA](https://www.meetup.com/blockchainbeachla/events/246455646/) (January 23, 2018)
+[Blockchain Beach Panel - Cryptocurrency Technology - Playa Del Rey, CA](https://www.meetup.com/blockchainbeachla/events/246455646/) (January 23, 2018)
 
 [Tech-in-Motion OC - Blockchain and Cryptocurrency Panel - Irvine, CA](https://www.meetup.com/TechinmotionOC/events/245195065/) (January 18, 2018)
 
-Crypto 101 -- How Cryptocurrency Exchanges Work (January 18, 2018)
+Crypto 101 - How Cryptocurrency Exchanges Work (January 18, 2018)
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/385876076&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 \\
 \\
-CryptoSpendthrift -- Cryptocurrency price volatility locking (December 22, 2017)
+CryptoSpendthrift - Cryptocurrency price volatility locking (December 22, 2017)
 {% include playyoutube.html id="FBVjCxVwYYg" %}
 \\
 \\
 [MIT Media Lab linked to my IOTA article in their IOTA article](https://www.media.mit.edu/posts/iota-response/) (December 20, 2017)
 \\
 \\
-[Developer on Fire -- Creating value and blockchain technology](http://developeronfire.com/podcast/episode-291-daniel-rice-winning-horses) (November 30, 2017)
+[Developer on Fire - Creating value and blockchain technology](http://developeronfire.com/podcast/episode-291-daniel-rice-winning-horses) (November 30, 2017)
 \\
 \\
-[Crypto Knights -- Smart contracts and dispute resolution](http://cryptoknights.io/episode-23/) (November 28, 2017)
+[Crypto Knights - Smart contracts and dispute resolution](http://cryptoknights.io/episode-23/) (November 28, 2017)
 \\
 \\
 [Electronic Signatures and Records Association -- Smart contracts and dispute resolution](https://esignrecords.org/esra-podcast-need-know-blockchain/) (November 28, 2017)
 
-Bitcoin Uncensored -- Smart Contract Dispute Resolution (November 15, 2017)
+Bitcoin Uncensored - Smart Contract Dispute Resolution (November 15, 2017)
 {% include playyoutube.html id="LDqpY-VsHeM" %}
 \\
 \\
-[Crowdfund Insider -- Oops, I Accidentally Froze $150 Million of Ether. Or, How Smart Contracts Are Not Invulnerable](https://www.crowdfundinsider.com/2017/11/124379-oops-accidentally-froze-150-million-ether-smart-contracts-not-invulnerable/) (November 9, 2017)
+[Crowdfund Insider - Oops, I Accidentally Froze $150 Million of Ether. Or, How Smart Contracts Are Not Invulnerable](https://www.crowdfundinsider.com/2017/11/124379-oops-accidentally-froze-150-million-ether-smart-contracts-not-invulnerable/) (November 9, 2017)
+
+[IBREA Orange County Meetup - Blockchain Technology Fundamentals - Aliso Viejo, CA](https://www.ibrea.network/events-index/2017/7/12/orange-county-california-ibrea-meetup-ragnar-lifthrasir-dan-rice) (July 12, 2017)
 
 [Crowdfund Insider -- Why Your Initial Coin Offering Is Probably Regulated By Securities Law](https://www.crowdfundinsider.com/2017/03/96598-initial-coin-offering-probably-regulated-securities-law/) (March 6, 2017)
+
+[IBREA Conference - Cryptocurrency and Blockchain Technology Panel - Newport Beach, CA](https://www.ibrea.network/events-index/2016/5/17/ibrea-conference) (May 17,2016)
