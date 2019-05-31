@@ -97,14 +97,22 @@ CryptoSpendthrift - Cryptocurrency price volatility locking (December 22, 2017)
 \\
 [Electronic Signatures and Records Association -- Smart contracts and dispute resolution](https://esignrecords.org/esra-podcast-need-know-blockchain/) (November 28, 2017)
 
+[Crowdfunder Educational Series: Introduction to Launching an ICO - Hacker Dojo - Santa Monica, CA](https://www.eventbrite.com/e/crowdfunder-educational-series-introduction-to-launching-an-ico-tickets-39535799641) (November 28,2017)
+
+[DTLA Tech Pitch Night - Sagewise - Los Angeles, CA](https://www.sits.la/calendar/2017/10/3/startups-in-the-sky-clean-tech-pitch-ml798) (November 15, 2017)
+
 Bitcoin Uncensored - Smart Contract Dispute Resolution (November 15, 2017)
 {% include playyoutube.html id="LDqpY-VsHeM" %}
 \\
 \\
 [Crowdfund Insider - Oops, I Accidentally Froze $150 Million of Ether. Or, How Smart Contracts Are Not Invulnerable](https://www.crowdfundinsider.com/2017/11/124379-oops-accidentally-froze-150-million-ether-smart-contracts-not-invulnerable/) (November 9, 2017)
 
+ICO Advisors Lunch & Learn Panel Legal and Technology - Santa Monica, CA (November 2, 2017)
+
 [IBREA Orange County Meetup - Blockchain Technology Fundamentals - Aliso Viejo, CA](https://www.ibrea.network/events-index/2017/7/12/orange-county-california-ibrea-meetup-ragnar-lifthrasir-dan-rice) (July 12, 2017)
 
-[Crowdfund Insider -- Why Your Initial Coin Offering Is Probably Regulated By Securities Law](https://www.crowdfundinsider.com/2017/03/96598-initial-coin-offering-probably-regulated-securities-law/) (March 6, 2017)
+[Crowdfund Insider - Why Your Initial Coin Offering Is Probably Regulated By Securities Law](https://www.crowdfundinsider.com/2017/03/96598-initial-coin-offering-probably-regulated-securities-law/) (March 6, 2017)
+
+[Legal Hackers - What Makes Blockchain Smart Contracts So Smart? - Santa Monica, CA](https://www.meetup.com/Los-Angeles-Legal-Innovation-Meetup/events/237294625/) (February 8, 2017)
 
 [IBREA Conference - Cryptocurrency and Blockchain Technology Panel - Newport Beach, CA](https://www.ibrea.network/events-index/2016/5/17/ibrea-conference) (May 17,2016)
