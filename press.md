@@ -5,13 +5,13 @@ permalink: /press/
 ---
 ## Upcoming Events
 
-## Recent notable public speaking and press
+## Past notable public speaking and press
 
 Gossip about Gossip Podcast: Do Smart Contracts Need a Safety Net? (March 21, 2019)
 <iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/9100235/height/90/theme/custom/thumbnail/yes/direction/forward/render-playlist/no/custom-color/000000/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 \\
 \\
-The EOS Podcast: Sagewise SendEOS technology (December 19, 2019)
+The EOS Podcast: Sagewise SendEOS technology (December 19, 2018)
 {% include playyoutube.html id="m7Q-Z4bNhws" %}
 \\
 \\
@@ -23,7 +23,7 @@ Plug and Play Demo Day Enterprise 2.0: Sagewise Technology - Sunnyvale, CA (Dece
 
 [EOS Developers Party SF Cryptocurrency Panel - San Francisco, CA](https://www.meetup.com/EOS-Silicon-Valley-Community/events/256200286/) (November 9, 2018)
 
-Speaking Event: SOCAL Blockchain - Irvine, CA (October 24, 2018)
+[SOCAL Blockchain - Sagewise Smart Contract Technology - Irvine, CA](https://www.meetup.com/Hyperledger-Orange-County/events/ptsgjqyxnbhc/) (October 25, 2018)
 
 [Crowdfund Insider -- World’s Biggest Insurtech Conference Captures Industry Mood on Blockchain, AI](https://www.crowdfundinsider.com/2018/10/140144-worlds-biggest-insurtech-conference-captures-industry-mood-on-blockchain-ai/) (October 17, 2018)
 \\
@@ -42,7 +42,7 @@ AthletesTouch: Cryptocurrency Panel - Venice, CA (September 18, 2018)
 
 [Brave New Coin - Recentralizing the smart contract may breathe life into Ethereum](https://bravenewcoin.com/insights/recentralizing-the-smart-contract-may-breathe-life-into-ethereum) (September 17, 2018)
 
-Bright Talk Enterprise Applications of Blockchain Webinar (September 18, 2018)
+[Bright Talk Enterprise Applications of Blockchain Webinar](https://www.brighttalk.com/webinar/enterprise-applications-of-blockchain-and-smart-contracts/?utm_source=brighttalk-growth&utm_medium=web&utm_campaign=thought-leader&utm_content=none&utm_term=DanielRice) (September 18, 2018)
 \\
 \\
 Gossip Guy Podcast - Sagewise - The Safety Net for Smart Contracts - Using Hedera Hashgraph (August, 14, 2018)
@@ -57,12 +57,13 @@ Gossip Guy Podcast - Sagewise - The Safety Net for Smart Contracts - Using Heder
 
 Transparency 18 Sagewise Live Demo - Atlanta, GA (May 22, 2018)
 {% include playyoutube.html id="N1yRg0M_pwc" %}
-
+\\
+\\
 [Forbes - Is Korea's Big Government Trying To Destroy Bitcoin, Ethereum And Ripple?](https://www.forbes.com/sites/panosmourdoukoutas/2018/05/12/is-koreas-big-government-trying-to-destroy-bitcoin-ethereum-ripple/#2fabaace4f44) (May 12, 2018)
 
 [Forbes - Warren Buffett Is Wrong About Bitcoin](https://www.forbes.com/sites/panosmourdoukoutas/2018/05/07/warren-buffett-is-wrong-about-bitcoin/#a14877b379c8) (May 7, 2018)
 
-Crypto Invest Summit - Sagewise Technology (May 2, 2018)
+[Crypto Invest Summit - Sagewise Technology - Los Angeles, CA](https://www.eventbrite.com/e/crypto-invest-summit-tickets-42439339206#) (May 2, 2018)
 
 [Cleveland State Law Review Symposium on Blockchain Law and Technology](https://www.eventbrite.com/e/blockchain-law-technology-symposium-tickets-42849684560) (April 6, 2018)
 
