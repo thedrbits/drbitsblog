@@ -5,6 +5,8 @@ permalink: /press/
 ---
 ## Upcoming Events
 
+[ILTACON 2019 - Smart Contracts Panel - Orlando, FL](https://www.iltacon.org) (August 20, 2019)
+
 ## Past notable public speaking and press
 
 Gossip about Gossip Podcast: Do Smart Contracts Need a Safety Net? (March 21, 2019)
@@ -19,6 +21,8 @@ Plug and Play Demo Day Enterprise 2.0: Sagewise Technology - Sunnyvale, CA (Dece
 {% include playyoutube.html id="uHkcA8O5a0I" %}
 \\
 \\
+[State Bar of California: Task Force on Access Through Innovation of Legal Services - San Francisco, CA](http://board.calbar.ca.gov/docs/meeting/meeting1000023379.pdf) (December 5, 2018)
+
 [EOS Global Hackathon - San Francisco, CA](https://www.eventbrite.com/e/eos-hackathon-san-francisco-tickets-48901052364#) (November 10-11, 2018)
 
 [EOS Developers Party SF Cryptocurrency Panel - San Francisco, CA](https://www.meetup.com/EOS-Silicon-Valley-Community/events/256200286/) (November 9, 2018)
@@ -117,3 +121,5 @@ ICO Advisors Lunch & Learn Panel Legal and Technology - Santa Monica, CA (Novemb
 [Legal Hackers - What Makes Blockchain Smart Contracts So Smart? - Santa Monica, CA](https://www.meetup.com/Los-Angeles-Legal-Innovation-Meetup/events/237294625/) (February 8, 2017)
 
 [IBREA Conference - Cryptocurrency and Blockchain Technology Panel - Newport Beach, CA](https://www.ibrea.network/events-index/2016/5/17/ibrea-conference) (May 17,2016)
+
+[Bitcoin Developers Los Angeles - Building and Debugging Bitcoin Core - Santa Monica, CA](https://www.meetup.com/Bitcoin-Developers-Los-Angeles/events/198965372/) (September 11, 2014)
