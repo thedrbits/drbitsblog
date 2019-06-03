@@ -7,12 +7,22 @@ permalink: /press/
 
 [ILTACON 2019 - Smart Contracts Panel - Orlando, FL](https://www.iltacon.org) (August 20, 2019)
 
+State Bar of California: Task Force on Access Through Innovation of Legal Services - San Francisco, CA (June 28, 2019)
+
 ## Past notable public speaking and press
+
+[State Bar of California: Task Force on Access Through Innovation of Legal Services - Rules and Ethics Subcommittee - Los Angeles, CA](http://board.calbar.ca.gov/Agenda.aspx?id=15248&t=0&s=false) (June 3, 2019)
+
+[State Bar of California: Task Force on Access Through Innovation of Legal Services - Rules and Ethics Subcommittee - Los Angeles, CA](http://board.calbar.ca.gov/Agenda.aspx?id=15239&t=0&s=false) (May 14, 2019)
+
+[State Bar of California: Task Force on Access Through Innovation of Legal Services - San Francisco, CA](http://board.calbar.ca.gov/docs/meeting/meeting1000023935.pdf) (April 8, 2019)
 
 Gossip about Gossip Podcast: Do Smart Contracts Need a Safety Net? (March 21, 2019)
 <iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/9100235/height/90/theme/custom/thumbnail/yes/direction/forward/render-playlist/no/custom-color/000000/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 \\
 \\
+[State Bar of California: Task Force on Access Through Innovation of Legal Services - Los Angeles, CA](http://board.calbar.ca.gov/docs/meeting/meeting1000023758.pdf) (February 28, 2019)
+
 The EOS Podcast: Sagewise SendEOS technology (December 19, 2018)
 {% include playyoutube.html id="m7Q-Z4bNhws" %}
 \\
