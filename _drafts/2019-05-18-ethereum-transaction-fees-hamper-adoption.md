@@ -4,8 +4,6 @@ title: Ethereum Transaction Fees Hamper Adoption
 author: Daniel Rice
 tags: 
 ---
-{% include image name="explode.jpeg"%}
-\\
 As a co-founder of a company that is building smart contracts and using blockchains, I spend a lot of time thinking about market traction. As I have researched companies that raised ICOs a couple of years ago, I’ve been appalled to find that very few of them have a focus on practical usability at all, and thus traction. There are a couple of different philosophies that can guide a crypto-space project in regards to traction.
 
 One is to build and integrate into the existing blockchain ecosystem with the mentality “if you build it they will come”, meaning some teams do not see their project as a direct driver to adoption of cryptocurrency, but rather a tool to be available for those that enter the market. A lot of ICO infrastructure projects fall into this camp. “We are building a decentralized exchange on Ethereum” was the ICO whitepaper pitch, so the team goes and starts building that exact system. In these cases, there may even be a legal obligation to execute the plan that was originally promised in the whitepaper since people gave money with a particular assumption of what would be built. The danger of this approach is that the company ties their success to the adoption of the platform the project is being built on. Furthermore, the team may not have the ability to respond to changes in the ecosystem that require them to pivot their original concept.
