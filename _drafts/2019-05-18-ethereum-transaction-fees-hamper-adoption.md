@@ -11,6 +11,8 @@ One is to build and integrate into the existing blockchain ecosystem with the me
 The second approach to building a cryptocurrency project is to act more like a traditional startup, meaning: Build a minimum viable product, solve an urgent problem with large market potential, get it in front of customers fast, and iterate. This approach means looking for ways to be the driver of ecosystem adoption rather than tying success to a single blockchain platform. If your company can entice new users to make first contact with your system, they may have to overcome special hurdles required by the protocol your system is built on. For this reason, it’s important that we closely analyze what hurdles exist to new user adoption of these platforms, and that we evaluate whether certain protocols are more user-friendly than others.
 
 There are many different ways to look at the usability of a platform, but for this article I want to focus in on transaction fees and specifically those of Ethereum. I’m focusing on Ethereum because it’s the most popular public smart contract protocol.
+<br>
+<br>
 
 #### **Generalizing Cryptocurrency Transaction Fees**
 
@@ -21,13 +23,14 @@ Direct Transaction Fees Deter Usage
 
 One reason to not charge direct fees is the visibility of the transaction cost. Credit cards charge a transaction fee that is typically around 3% of the transaction. This fee is not directly charged to the buyer, but rather the seller. Credit card processing merchant contracts also generally prohibit the seller from charging a markup on credit card purchases, and this means the buyer pays the same price whether or not they use a credit card. Buyers do in fact pay a fee for credit card usage, because the seller must bake that fee into their prices, but that fee is charged whether or not the buyer pays with a credit card, and that means it’s only indirectly related to the fee the seller pays for credit card processing. Charging transaction fees to the buyer indirectly is psychologically and practically very different than charging them directly. Charging directly for credit cards would mean the customer at the checkout would pay a higher price when using a credit card than with cash and that means at every checkout they would ask themselves, “Should I pay with cash and pay less, or should I pay with credit and pay more?” Ask yourself if you think credit cards would be as common today if they were always more expensive at the register than cash.
 
-    Users will use a paid solution only if a reasonably comparable free solution does not exist.
+***Users will use a paid solution only if a reasonably comparable free solution does not exist.***
+<br>
+<br>
+#### **Lessons from Mobile**
 
-Lessons from Mobile
+***microtransaction — a very small financial transaction conducted online.***
 
-    microtransaction — a very small financial transaction conducted online.
-
-    micropayment — a very small payment made online.
+***micropayment — a very small payment made online.***
 
 I started building smartphone apps as soon as Apple launched the App Store in 2008. In order to make sure that my time was well-spent and that I launched apps in a way that would make them successful, I did a lot of research around business models over those first key years as the world collectively explored what robust apps in our pocket would mean. Mobile was one of the first places we saw digital micropayments tested on a wide scale, and there were very distinct sales patterns that occurred in those early years:
 
@@ -70,30 +73,30 @@ While this may not matter greatly for an Ethereum native, it creates an incredib
 
 For cryptocurrency we must take a close look at what barriers these micropayments are creating. If my first intro to Ethereum is a game that a friend tells me about that uses utility tokens, here are the current funnel steps I must complete to play the game for the first time(assuming it’s a DApp):
 
-    Go to game website
-    Realize you need this cryptocurrency thing and go study up on it
-    Install Metamask
-    Create password
-    Save seed key
-    Create backup copy of seed key in case one is lost
-    Find a safe place to hide my seed key and backups
-    Find a cryptocurrency exchange
-    Create an account on the cryptocurrency exchange
-    Upload photo ID, personal info, and wait for KYC verification (probably days)
-    Connect a bank account, and transfer some money into the exchange
-    Wait for the money to transfer (probably days)
-    Purchase ETH
-    Send ETH to Metamask address
-    Find exchange that supports the correct utility tokens
-    Create an account on the cryptocurrency exchange
-    Upload photo ID, personal info, and wait for KYC verification (probably days)
-    If the utility token exchange supports ETH, then transfer ETH to the new exchange
-    If the new exchange only supports BTC, go back to bank account funded exchange and buy some BTC
-    Send BTC to utility token exchange
-    Convert BTC/ETH to utility token at market price
-    Send utility token to Metamask
-    Go back to game and complete their signup process
-    PLAY!!! WE MADE IT!!!
+1. Go to game website
+1. Realize you need this cryptocurrency thing and go study up on it
+1. Install Metamask
+1. Create password
+1. Save seed key
+1. Create backup copy of seed key in case one is lost
+1. Find a safe place to hide my seed key and backups
+1. Find a cryptocurrency exchange
+1. Create an account on the cryptocurrency exchange
+1. Upload photo ID, personal info, and wait for KYC verification (probably days)
+1. Connect a bank account, and transfer some money into the exchange
+1. Wait for the money to transfer (probably days)
+1. Purchase ETH
+1. Send ETH to Metamask address
+1. Find exchange that supports the correct utility tokens
+1. Create an account on the cryptocurrency exchange
+1. Upload photo ID, personal info, and wait for KYC verification (probably days)
+1. If the utility token exchange supports ETH, then transfer ETH to the new exchange
+1. If the new exchange only supports BTC, go back to bank account funded exchange and buy some BTC
+1. Send BTC to utility token exchange
+1. Convert BTC/ETH to utility token at market price
+1. Send utility token to Metamask
+1. Go back to game and complete their signup process
+1. PLAY!!! WE MADE IT!!!***
 
 That seems like an awful lot to ask of a user and more than a user will probably be willing to do unless they have a massive incentive to complete the process.
 Scale Matters a Little
