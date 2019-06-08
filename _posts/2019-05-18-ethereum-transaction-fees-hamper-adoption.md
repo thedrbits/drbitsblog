@@ -4,6 +4,7 @@ title: Ethereum Transaction Fees Hamper Adoption
 author: Daniel Rice
 tags: 
 ---
+{% include image name="1.jpeg"%}
 As a co-founder of a company that is building smart contracts and using blockchains, I spend a lot of time thinking about market traction. As I have researched companies that raised ICOs a couple of years ago, I’ve been appalled to find that very few of them have a focus on practical usability at all, and thus traction. There are a couple of different philosophies that can guide a crypto-space project in regards to traction.
 
 One is to build and integrate into the existing blockchain ecosystem with the mentality “if you build it they will come”, meaning some teams do not see their project as a direct driver to adoption of cryptocurrency, but rather a tool to be available for those that enter the market. A lot of ICO infrastructure projects fall into this camp. “We are building a decentralized exchange on Ethereum” was the ICO whitepaper pitch, so the team goes and starts building that exact system. In these cases, there may even be a legal obligation to execute the plan that was originally promised in the whitepaper since people gave money with a particular assumption of what would be built. The danger of this approach is that the company ties their success to the adoption of the platform the project is being built on. Furthermore, the team may not have the ability to respond to changes in the ecosystem that require them to pivot their original concept.
@@ -21,6 +22,7 @@ The general model follows what I consider to be the most obvious solution: If yo
 <br>
 <br>
 #### **Direct Transaction Fees Deter Usage**
+{% include image name="2.jpeg"%}
 
 One reason to not charge direct fees is the visibility of the transaction cost. Credit cards charge a transaction fee that is typically around 3% of the transaction. This fee is not directly charged to the buyer, but rather the seller. Credit card processing merchant contracts also generally prohibit the seller from charging a markup on credit card purchases, and this means the buyer pays the same price whether or not they use a credit card. Buyers do in fact pay a fee for credit card usage, because the seller must bake that fee into their prices, but that fee is charged whether or not the buyer pays with a credit card, and that means it’s only indirectly related to the fee the seller pays for credit card processing. Charging transaction fees to the buyer indirectly is psychologically and practically very different than charging them directly. Charging directly for credit cards would mean the customer at the checkout would pay a higher price when using a credit card than with cash and that means at every checkout they would ask themselves, “Should I pay with cash and pay less, or should I pay with credit and pay more?” Ask yourself if you think credit cards would be as common today if they were always more expensive at the register than cash.
 
@@ -28,6 +30,7 @@ One reason to not charge direct fees is the visibility of the transaction cost. 
 <br>
 <br>
 #### **Lessons from Mobile**
+{% include image name="3.jpeg"%}
 
 ***microtransaction — a very small financial transaction conducted online.***
 
@@ -43,6 +46,7 @@ Statistics were gathered by developers that showed the majority of smartphone us
 <br>
 <br>
 #### **Microtransactions Stress the User**
+{% include image name="4.jpeg"%}
 
 These smartphone app purchases we are discussing have a unique characteristic in common with cryptocurrency transactions: They are generally small, repeated microtransactions. Beyond the first phase of mobile, moving from paid to free, the next stage focused on something new: If most users were not willing to pay anything, then they would always use the free version, but what about the users who were willing to pay? How much were they willing to pay and what would the optimal model be for a mobile app to make the most revenue? Most mobile apps, when they went from paid $.99 to free with in-app-purchase features, generally just asked users to pay the $.99 to get the added paid functionality. This presented a problem because the apps and companies were supporting 20 times the number of users but making the same revenue as they were before they started to support free users. In reality, some paid users were willing to spend a lot more than $.99 on an app, and so app developers were forced to ask how best to extract the most money from these “whale” users.
 
@@ -61,6 +65,7 @@ In addition to the complexity of a double transaction fee, both the ETH gas and 
 <br>
 <br>
 #### **Micropayments Ignore Bulk Discount Concepts**
+{% include image name="5.jpeg"%}
 
 If I want to buy candy that I plan to eat later at my house, I’m generally not going to collect them in hand-fulls from the vending bubble gum style machine in front of the grocery store because I know that the larger pack inside the store carries a bulk discount. This same concept tends to apply in software as well. Going back to the whaling concept discussed on mobile, as a company you want to incentivize your most valuable users to spend the most money possible and one of the approaches you can use is to offer bulk discounts. If you want a single game power-up, that’s $.99, but if you want ten power-ups, that’s $4.99. This is a standard SaaS pricing model concept as well: “Under 5 users — $100 a month, 5 to 20 users — $75 a month, more than 20 — CALL US.” Companies have learned almost universally that you want to incentivize bulk sales, and offering bulk discounts is a good way to do that.
 
@@ -68,6 +73,7 @@ Bitcoin, Ethereum, and utility tokens have a limited concept of bulk discounting
 <br>
 <br>
 #### **Variable Microtransaction Fees are Insane**
+{% include image name="6.jpeg"%}
 
 There is only one model I can think of that is unquestionably worse than micropayments and that is variable price micropayments. How would you feel about Paypal if they charged you on some days a 1% fee and on other days a 120% fee on a $50 transfer? Sounds insane right? That is exactly what we have seen happen on both the Bitcoin and the Ethereum network. Bitcoin and Ethereum use a transaction fee model where your transaction fee is essentially bidding for bandwidth on the network. The networks have a limited capacity, so in order to discover which transactions should be accepted into that limited space, miners compare fees and generally accept those who pay more. This means the transaction fees on both Bitcoin and Ethereum depend on how busy the network is at the time. At the end of 2017, the transaction fees on both networks saw a dramatic increase, Bitcoin peaked at an average of $50–$60. Scaling solutions like payment channels do give the network more capacity which creates lower fees, but the fees are still load-based and variable.
 
@@ -125,6 +131,7 @@ In the cryptocurrency world, transactions of all kinds can also be directly free
 <br>
 <br>
 #### **Private Permissioned is Usually Free**
+{% include image name="7.jpeg"%}
 
 One quick way to make transactions free is to use a permissioned ledger approach. In the supply chain space, there are many projects sprouting up that use Hyperledger Fabric to share shipment tracking as well as many other types of data: Shipment congestion history, spot delivery pricing trends, etc. Fabric ends up being a good choice because the network nodes can be supported by many different business models and those node hosts can decide how to charge for network participation. They do not need to charge every client or entity that chooses to interact with the network, so their network on-boarding process does not need to involve buying a token or paying anything. Private permissioned ledgers do not provide the same guarantees as public ledgers, but the architecture can make sense for collaboration between groups of private enterprises, such as a consortium.
 <br>
