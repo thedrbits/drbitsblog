@@ -75,6 +75,8 @@ Transparency 18 Sagewise Live Demo - Atlanta, GA (May 22, 2018)
 \\
 [Forbes - Is Korea's Big Government Trying To Destroy Bitcoin, Ethereum And Ripple?](https://www.forbes.com/sites/panosmourdoukoutas/2018/05/12/is-koreas-big-government-trying-to-destroy-bitcoin-ethereum-ripple/#2fabaace4f44) (May 12, 2018)
 
+[Daily Hodl - Sagewise Puts Focus on Blockchain Immutability and Dispute Resolution](https://dailyhodl.com/2018/05/11/sagewise-puts-focus-on-blockchain-immutability-and-dispute-resolution/) (May 11, 2018)
+
 [Forbes - Warren Buffett Is Wrong About Bitcoin](https://www.forbes.com/sites/panosmourdoukoutas/2018/05/07/warren-buffett-is-wrong-about-bitcoin/#a14877b379c8) (May 7, 2018)
 
 [Crypto Invest Summit - Sagewise Technology - Los Angeles, CA](https://www.eventbrite.com/e/crypto-invest-summit-tickets-42439339206#) (May 2, 2018)
