@@ -26,7 +26,7 @@ sass:
 # Author settings
 author:
   name     : Daniel Rice
-  job      : "Computer Scientist and Chief Technology Officer focused on fintech. I'm currently working at <a href=https://www.sagewise.io>Sagewise</a> where I am co-founder and CTO. Our published active products are <a href=https://www.blokusign.com>Blokusign</a>, <a href=https://www.sendeos.io>SendEOS</a>, and <a href=https://www.getloaded.app>Loaded</a>"
+  job      : "Computer Scientist and Chief Technology Officer focused on fintech. I'm currently working at <a href=https://www.sagewise.io>Sagewise</a> where I am co-founder and CTO. Our published active products are <a href=https://www.blokusign.com>Blokusign</a> and <a href=https://www.getloaded.app>Loaded</a>"
   bio      : "These are my thoughts on Technology and Business."
   thumb    : /images/author.jpg
   email    : dan@drbits.org
