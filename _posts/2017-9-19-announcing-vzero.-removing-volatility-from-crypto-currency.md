@@ -19,4 +19,4 @@ This in general strikes me as a place where cryptocurrency fails at mainstream a
 
 Vzero Framework is a whitepaper concept around how we eliminate this cryptocurrency volatility issue long term so we can remove this barrier to adoption. Please note, this is not an ICO precursor. I’m not soliciting funds in any way. I’m simply releasing this information into the world to share and gain valuable feedback so we can all find the best road forward.
 
-<a href='/assets/posts/2017-09-19-announcing-vzero-removing-volatility-from-crypto-currency/Bitcoin-Volatility-Removal-via-Crypto-Token-Asset-Baskets.pdf'>Get the Whitepaper Here</a>
+<a href='{{ site.baseurl }}/assets/posts/2017-09-19-announcing-vzero-removing-volatility-from-crypto-currency/Bitcoin-Volatility-Removal-via-Crypto-Token-Asset-Baskets.pdf'>Get the Whitepaper Here</a>
