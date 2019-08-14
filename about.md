@@ -11,7 +11,7 @@ Daniel currently serves on the California Bar Task Force for Access to Legal Ser
 \\
 \\
 \\
-In 2014 Daniel founded Bitcoin Developers Los Angeles to focus on building a developer community around blockchain technology. He has consulted for fortune 500 companies around blockchain and filed many patents on the topic as well.
+In 2014 Daniel founded Bitcoin Developers Los Angeles to focus on building a developer community around blockchain technology. He has consulted for Fortune 500 companies around blockchain and filed many patents on the topic as well.
 \\
 \\
 \\
