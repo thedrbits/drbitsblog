@@ -5,13 +5,13 @@ permalink: /press/
 ---
 ## Upcoming Events
 
-[ILTACON 2019 - Smart Contracts Panel - Orlando, FL](https://www.iltacon.org) (August 20, 2019)
-
 State Bar of California: Task Force on Access Through Innovation of Legal Services - Los Angeles, CA (October 7, 2019)
 
 State Bar of California: Task Force on Access Through Innovation of Legal Services - San Francisco, CA (November 6, 2019)
 
 ## Past notable public speaking and press
+
+[ILTACON 2019 - Smart Contracts Panel - Orlando, FL](https://www.iltacon.org) (August 20, 2019)
 
 [State Bar of California: Task Force on Access Through Innovation of Legal Services - San Francisco, CA](http://board.calbar.ca.gov/Agenda.aspx?id=15303&t=0&s=false) (August 9, 2019)
 
