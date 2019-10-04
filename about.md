@@ -7,7 +7,7 @@ permalink: /about/
 \\
 \\
 \\
-Daniel currently serves on the California Bar Task Force for Access to Legal Services Through Innovation.
+Daniel served on the California Bar Task Force for Access to Legal Services Through Innovation 2018-2019.
 \\
 \\
 \\

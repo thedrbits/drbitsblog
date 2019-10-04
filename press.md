@@ -5,9 +5,7 @@ permalink: /press/
 ---
 ## Upcoming Events
 
-State Bar of California: Task Force on Access Through Innovation of Legal Services - Los Angeles, CA (October 7, 2019)
-
-State Bar of California: Task Force on Access Through Innovation of Legal Services - San Francisco, CA (November 6, 2019)
+n/a
 
 ## Past notable public speaking and press
 
