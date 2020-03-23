@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-{% include image name="dan.jpeg" width=200 %}Daniel Rice is the Co-founder and CTO of [LOADED](https://www.getloaded.app). He is a computer scientist with a background in financial technology including risk analysis and cybersecurity. Prior to Sagewise, Daniel was CTO of [Totum Risk](https://www.totumrisk.com/) which builds portfolio risk analysis software. Daniel has helped launch over 20 products, and as an entrepreneur his personal apps have recorded over 5 million downloads. 
+{% include image name="dan.jpeg" width=200 %}Daniel Rice is the Co-founder and CTO of [Bling Financial](https://www.blingfi.com). He is a computer scientist with a background in financial technology including risk analysis and cybersecurity. Prior to Bling, Daniel was CTO of [Totum Risk](https://www.totumrisk.com/) which builds portfolio risk analysis software. Daniel has helped launch over 20 products, and as an entrepreneur his personal apps have recorded over 5 million downloads. 
 \\
 \\
 \\
