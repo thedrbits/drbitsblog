@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Selling your Bitcoin Gold from a Bitcoin Paper Wallet using only an iPhone and Mac
-author: Daniel Rice
+author: Dan Rice
 tags: 
 ---
 I have bitcoins stored on paper wallets that I created a few years ago and

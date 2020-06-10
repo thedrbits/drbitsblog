@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spectre and Meltdown will steal your cryptocurrency
-author: Daniel Rice
+author: Dan Rice
 tags: 
 ---
 {% include image caption="The clock is ticking on your cryptocurrency" name="explode.jpeg"%}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why I also find IOTA deeply alarming
-author: Daniel Rice
+author: Dan Rice
 tags: 
 ---
 Earlier this year, an Ethereum developer [Nick Johnson wrote a blog with his

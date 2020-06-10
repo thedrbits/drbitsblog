@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ethereum Transaction Fees Hamper Adoption
-author: Daniel Rice
+author: Dan Rice
 tags: 
 ---
 {% include image name="1.jpeg"%}
